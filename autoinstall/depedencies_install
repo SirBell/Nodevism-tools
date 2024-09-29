@@ -1,5 +1,5 @@
 #!/bin/bash
-source <(curl -s https://raw.githubusercontent.com/SirBell/Nodevism-tools/main/autointall/common.sh)
+source <(curl -s https://raw.githubusercontent.com/SirBell/Nodevism-tools/main/autoinstall/common.sh)
 
 printGreen "2. Updating packages..." && sleep 1
 sudo apt update

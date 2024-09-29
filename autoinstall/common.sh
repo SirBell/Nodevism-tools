@@ -11,7 +11,7 @@ NC="\e[0m"          # blank color
 
 
 function printLogo {
-  bash <(curl -s https://raw.githubusercontent.com/SirBell/Nodevism-tools/main/autointall/logo.sh)
+  bash <(curl -s https://raw.githubusercontent.com/SirBell/Nodevism-tools/main/autoinstall/logo.sh)
 }
 
 function printLine {

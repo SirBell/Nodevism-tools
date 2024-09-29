@@ -8,5 +8,5 @@ echo "  | |\\  | (_) | (_| |  __/\\ V /| \\__ \\ | | | | | ";
 echo "  |_| \\_|\\___/ \\__,_|\\___| \\_/ |_|___/_| |_| |_| ";
                                                
 echo -e "\033[0;32m"
-echo "                                                                          docs.nodevism.com"
+echo "                                      docs.nodevism.com"
 echo -e "\e[0m"
